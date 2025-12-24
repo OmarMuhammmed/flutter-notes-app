@@ -43,7 +43,7 @@ Ensure you have the following installed on your system:
 1.  **Clone the Repository**
     Open your terminal or command prompt and run:
     ```bash
-    git clone https://github.com/yourusername/flutter-notes-app.git
+    git clone https://github.com/OmarMuhammmed/flutter-notes-app.git
     cd notes_app
     ```
 
